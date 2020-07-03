@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void showToast(View view) {
-        Toast toast = Toast.makeText(this, R.string.toast_message,Toast.LENGTH_SHORT);
+        Toast toast = Toast.makeText(this, "Ooi Xian Wei 19WMD10050",Toast.LENGTH_SHORT);
         toast.show();
     }
 
